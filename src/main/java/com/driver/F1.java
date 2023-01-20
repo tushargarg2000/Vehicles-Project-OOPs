@@ -4,7 +4,7 @@ public class F1 extends Car {
 
     public F1(String name, boolean isManual) {
         //Use arbitrary values for parameters which are not mentioned
-        //Which constructor should call ?
+        //Which constructor should ?
 
         super(name,4,2,7,isManual,"Sports",2);
 
